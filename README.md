@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Raúl Bene
+# 👋 ¡Hola! Soy Raúl Benedid
 
 Soy desarrollador **backend** especializado en **Laravel**, apasionado por crear APIs robustas, seguras y fáciles de mantener.  
 También tengo conocimientos de **frontend** con **React** e **Inertia.js**, lo que me permite trabajar en proyectos full stack cuando hace falta.
